@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1060644680160",
+    "project_id": "marg-rakshak-8faf4",
+    "storage_bucket": "marg-rakshak-8faf4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060644680160:android:9c79d3eb8c24cf5fdb7b85",
+        "android_client_info": {
+          "package_name": "com.example.marg_rakshak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060644680160-5ajn4i3areen4alpcfelu2do6gk4q4o3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.marg_rakshak",
+            "certificate_hash": "1a8fdd0227e3a51fa01da833c94eaadcf81e5b6b"
+          }
+        },
+        {
+          "client_id": "1060644680160-lpkefv1jr4euc693e3r70h3j0q5l2rpq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuOZQjw3NgSaEan6Tlig7E8b9TwKpFFtg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1060644680160-lpkefv1jr4euc693e3r70h3j0q5l2rpq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1060644680160-2domigrckhulngi9j30l1mb1kntlrktc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.margRakshak"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
